@@ -1,6 +1,5 @@
-<div style="width:100%">
-	<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" align="center" alt="👋 Hi there! I'm Houssem Guesmi" title="👋 Hi there! I'm Houssem Guesmi"/>
-</div>
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" align="center" width="100em" alt="👋 Hi there! I'm Houssem Guesmi" title="👋 Hi there! I'm Houssem Guesmi"/>
+
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=Raymo111.Raymo111)-->
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
