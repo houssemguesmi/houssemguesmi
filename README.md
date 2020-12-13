@@ -1,7 +1,12 @@
+<!--
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+-->
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=Raymo111.Raymo111)-->
+
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Javascript developer
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚗𝚍 CEO 𝚊𝚝 [<img src="https://i.ibb.co/m9D5DK6/sticky-logo.png" height="35em" align="center" alt="Hack-Services" title="Hack-Services" border="0" />](https://hack-services.tn)
-- 🌐 HIR (Hacker In Residence/Javascript Instructor) at RBK (RebootKamp Powered By Hack Reactor) Tunisia.    [<img src="https://www.rebootkamp.net/wp-content/uploads/2020/08/logos-RBK-1.png" height="35em" align="center" alt="RBK" title="RBK" border="0" />](https://rebootkamp.tn)
+- 🌐 HIR (Hacker In Residence/Javascript Instructor) at RBK (RebootKamp Powered By Hack Reactor) Tunisia. [<img src="https://www.rebootkamp.net/wp-content/uploads/2020/08/logos-RBK-1.png" height="35em" align="center" alt="RBK" title="RBK" border="0" />](https://rebootkamp.tn)
 
 <!--## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗𝚜 𝚏𝚘𝚛 𝙳𝚛𝚁𝚊𝚌𝚔𝚎𝚝](https://github.com/Raymo111/drracket-customization) 𝚊𝚗𝚍 [**𝚎𝚖𝚘𝚓𝚒**](https://github.com/Raymo111/emoji)
@@ -17,7 +22,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssemguesmi&langs_count=8" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=houssemguesmi&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=houssemguesmi&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a> 
 <!--END_SECTION:stats-->
 
