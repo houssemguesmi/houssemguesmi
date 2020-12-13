@@ -1,15 +1,15 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Javascript developer
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚗𝚍 CEO 𝚊𝚝 [<img src="https://i.ibb.co/m9D5DK6/sticky-logo.png" height="35em" align="center" alt="Hack-Services" title="Hack-Services" border="0" />](https://hack-services.tn)
-- 🌐 HIR (Hacker In Residence/Javascript Instructor) at RBK (RebootKamp Powered By Hack Reactor) Tunisia. [<img src="https://www.rebootkamp.net/wp-content/uploads/2020/08/logos-RBK-1.png" height="35em" align="center" alt="RBK" title="RBK" border="0" />](https://rebootkamp.tn)
+- 🌐 HIR (Hacker In Residence/Javascript Instructor) at RBK (RebootKamp Powered By Hack Reactor) Tunisia.    [<img src="https://www.rebootkamp.net/wp-content/uploads/2020/08/logos-RBK-1.png" height="35em" align="center" alt="RBK" title="RBK" border="0" />](https://rebootkamp.tn)
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+<!--## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗𝚜 𝚏𝚘𝚛 𝙳𝚛𝚁𝚊𝚌𝚔𝚎𝚝](https://github.com/Raymo111/drracket-customization) 𝚊𝚗𝚍 [**𝚎𝚖𝚘𝚓𝚒**](https://github.com/Raymo111/emoji)
 - 🎯 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 𝚠𝚘𝚛𝚔 𝚘𝚗 𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛 𝚎𝚗𝚑𝚊𝚗𝚌𝚎𝚖𝚎𝚗𝚝𝚜, 𝚝𝚑𝚒𝚜 𝚁𝙴𝙰𝙳𝙼𝙴, 𝚊𝚗𝚍 𝚖𝚢 𝙺𝚊𝚑𝚘𝚘𝚝 𝙱𝚘𝚝 𝚒𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎.
 - 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑:
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟹𝟼](https://github.com/Raymo111/i3lock-color/issues/136)
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159)
-
+-->
 ## 🔔 𝙼𝚢 GitHub Stats:
 <!--START_SECTION:stats-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -24,9 +24,8 @@
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚎 𝚘𝚗 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒𝚊!
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on Instagram"/>](https://linkedin.com/in/Raymo111)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Raymo111 on Instagram"/>](https://twitter.com/Raym0111)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/Raymo111)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Houssem on LinkedIn" title="Follow Houssem on LinkedIn"/>](https://www.linkedin.com/in/houssem-guesmi-7360731b4/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Houssem on Instagram" title="Follow Houssem on Instagram"/>](https://instagram.com/houssem__guesmii)
 
 ## ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
 - 𝚃𝚢𝚙𝚎𝙸𝚝, 𝚅𝚞𝚎 𝙿𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝙹𝚜 𝚊𝚗𝚍 𝚅𝚞𝚎.𝚓𝚜 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚝𝚢𝚙𝚒𝚗𝚐 𝚒𝚗𝚝𝚛𝚘: [𝚑𝚝𝚝𝚙𝚜://𝚌𝚘𝚍𝚎𝚜𝚊𝚗𝚍𝚋𝚘𝚡.𝚒𝚘/𝚜/𝚛𝚎𝚊𝚍𝚖𝚎-𝚒𝚗𝚝𝚛𝚘𝚐𝚒𝚏-𝟿𝚏𝚓𝚘𝟻](https://codesandbox.io/s/readme-introgif-9fjo5) <!-- Thanks to @matyo91's helpful comments in their profile README! -->
