@@ -22,7 +22,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssemguesmi&langs_count=8" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=houssemguesmi&show_icons=true&line_height=27&include_all_commits=true&include_all_contributions=true" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=houssemguesmi&show_icons=true&line_height=27&include_all_commits=true&count_private=true" alt="My github stats" />
 </a> 
 <!--END_SECTION:stats-->
 
