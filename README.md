@@ -19,10 +19,10 @@
 <!--START_SECTION:stats-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssemguesmi&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssemguesmi&langs_count=8&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=houssemguesmi&show_icons=true&line_height=27&include_all_commits=true&count_private=true&theme=gruvbox" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=houssemguesmi&show_icons=true&line_height=27&include_all_commits=true&count_private=true&theme=radical" alt="My github stats" />
 </a> 
 <!--END_SECTION:stats-->
 
