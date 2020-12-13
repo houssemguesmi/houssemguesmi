@@ -1,6 +1,4 @@
-<!--
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
--->
+[<img src="https://gph.is/g/ZPm5k6k" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=Raymo111.Raymo111)-->
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
