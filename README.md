@@ -1,4 +1,7 @@
-[<img src="https://giphy.com/gifs/LMcB8XospGZO8UQq87/html5" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+[
+<!-- <img src="https://giphy.com/gifs/LMcB8XospGZO8UQq87/html5" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/> -->
+<iframe src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87">via GIPHY</a></p>
+](https://raymond.li/)
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=Raymo111.Raymo111)-->
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
