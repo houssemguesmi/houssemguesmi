@@ -1,7 +1,7 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Javascript developer
-- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚗𝚍 CEO 𝚊𝚝 [<img src="https://i.ibb.co/qNpnZ52/main-logo.png" height="30em" align="center" alt="Hack-Services" title="Hack-Services" border="0" />](https://hack-services.tn)
-- 🌐 HIR (Hacker In Residence) at RBK (RebootKamp Powered By Hack Reactor) Tunisia.
+- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚗𝚍 CEO 𝚊𝚝 [<img src="https://i.ibb.co/m9D5DK6/sticky-logo.png" height="35em" align="center" alt="Hack-Services" title="Hack-Services" border="0" />](https://hack-services.tn)
+- 🌐 HIR (Hacker In Residence/Javascript Instructor) at RBK (RebootKamp Powered By Hack Reactor) Tunisia.
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗𝚜 𝚏𝚘𝚛 𝙳𝚛𝚁𝚊𝚌𝚔𝚎𝚝](https://github.com/Raymo111/drracket-customization) 𝚊𝚗𝚍 [**𝚎𝚖𝚘𝚓𝚒**](https://github.com/Raymo111/emoji)
