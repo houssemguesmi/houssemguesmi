@@ -1,11 +1,3 @@
-* GitHub stats:  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssemguesmi&langs_count=8" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=houssemguesmi&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-</a> 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚗𝚍 𝚂𝚆𝙴 𝚊𝚝 [<img src="https://edgeprim.com/assets/images/EdgePrim.svg" height="30em" align="center" alt="EdgePrim" title="EdgePrim"/>](https://edgeprim.com)
@@ -21,19 +13,16 @@
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟹𝟼](https://github.com/Raymo111/i3lock-color/issues/136)
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159)
 
-## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#189](https://github.com/Raymo111/i3lock-color/issues/189) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-2. ❗️ Opened issue [#1452](https://github.com/FredrikNoren/ungit/issues/1452) in [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit)
-3. 🎉 Merged PR [#188](https://github.com/Raymo111/i3lock-color/pull/188) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🗣 Commented on [#187](https://github.com/Raymo111/i3lock-color/issues/187) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. ❌ Closed PR [#13](https://github.com/Raymo111/cs135-drtools/pull/13) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
-<!--END_SECTION:activity-->
-
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
-<a href="https://twitter.com/Raym0111" target="_blank">
-	<img src="https://github.com/Raymo111/Raymo111/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
+## 🔔 𝙼𝚢 GitHub Stats:
+<!--START_SECTION:stats-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssemguesmi&langs_count=8" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=houssemguesmi&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a> 
+<!--END_SECTION:stats-->
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚎 𝚘𝚗 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒𝚊!
